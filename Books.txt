@@ -1,0 +1,5 @@
+Don Quixote;Miguel De Cervantes;150;resources\\covers\\Don Quixote.png
+Pilgrim's Progress;John Bunyan;250;resources\\covers\\Pilgrim's Progress.jpg
+Robinson Crusoe;Daniel Defoe;450;resources\\covers\\Robinson Crusoe.jpg
+Gulliver's Travels;Jonathan Swift;100;resources\\covers\\Gulliver's Travels.jpg
+Frankenstein;Mary Shelley;50;resources\\covers\\Frankenstein.jpg
